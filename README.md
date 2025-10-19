@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Oluwashola Ajala  
 
-### Full-Stack Developer | Founder of Frosh Web Visions (FWV) | Brand Designer  
+### Full-Stack Developer | Founder of FroshX | Brand Designer  
 
 I’m a passionate developer who loves turning ideas into real digital products.  
 From sleek frontends to powerful backends, I build websites and apps that *actually work and look great.*  
